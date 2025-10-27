@@ -1,6 +1,7 @@
 <h1>react calendar</h1>
 
 a simple calendar made with react.
+<img src="public/preview.png" alt="calendar preview" width="600" />
 
 <h2>install</h2>
 
