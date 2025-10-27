@@ -7,8 +7,7 @@ a simple calendar made with react.
 1. clone this repo
 
 ```
-git clone https://github.com/yourusername/react-calendar.git
-cd react-calendar
+git clone https://github.com/nervant/calendar.git
 ```
 
 2. install dependencies
